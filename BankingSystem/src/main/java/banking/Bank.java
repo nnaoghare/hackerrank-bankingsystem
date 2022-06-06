@@ -9,6 +9,7 @@ import java.util.LinkedHashMap;
 public class Bank implements BankInterface {
 	private LinkedHashMap<Long, Account> accounts = new LinkedHashMap<Long, Account>();
 
+	/*Added new comment for testing github*/
 	public Bank() {
 		super();
 	}
