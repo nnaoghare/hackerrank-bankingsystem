@@ -1,7 +1,7 @@
 package banking;
 
 /**
- * Abstract bank account class.<br>
+ * Abstract bank account class to be implemented by AccountHolder. <br>
  * <br>
  *
  * Private Variables:<br>
